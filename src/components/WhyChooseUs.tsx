@@ -35,8 +35,6 @@ const musicSchoolContent = [
     },
   ];
 
-
-
 function WhyChooseUs() {
   return (
     <div  >

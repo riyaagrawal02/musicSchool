@@ -3,7 +3,6 @@ import Link from "next/link"
 import { HoverEffect } from "./ui/card-hover-effect";
 
 function UpcomingWebinars() {
-
   const featuredWebinars = [
     {
       title: 'Understanding Music Theory',
@@ -33,7 +32,7 @@ function UpcomingWebinars() {
       slug: 'music-production-essentials',
       isFeatured: true,
     },
-    // Added two more webinars
+    
     {
       title: 'Live Performance Techniques',
       description:
